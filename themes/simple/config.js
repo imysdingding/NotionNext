@@ -3,7 +3,7 @@ const CONFIG = {
   SIMPLE_LOGO_IMG: '/Logo.webp',
   SIMPLE_TOP_BAR: true, // 显示顶栏
   SIMPLE_TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
-  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>自我成長 x 閱讀筆記 x 理財<br/>Notion、heptabase、子彈筆記控<br/>喜歡探索學習的生活熱愛者<br/>人類圖學習中</div>',
+  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>自我成長 x 閱讀筆記 x 預算理財<br/></div>',
 
   SIMPLE_AUTHOR_LINK: process.env.NEXT_PUBLIC_AUTHOR_LINK || '#',
 
