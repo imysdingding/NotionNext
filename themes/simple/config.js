@@ -3,7 +3,7 @@ const CONFIG = {
   SIMPLE_LOGO_IMG: '/Logo.webp',
   SIMPLE_TOP_BAR: true, // 显示顶栏
   SIMPLE_TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
-  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>🌱自我成長 🌱閱讀筆記 🌱預算理財<br/></div>',
+  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>🌱學習心得 🌱閱讀筆記<br/>🌱自我探索 🌱預算理財 <br/></div>',
 
   SIMPLE_AUTHOR_LINK: process.env.NEXT_PUBLIC_AUTHOR_LINK || '#',
 
